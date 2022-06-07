@@ -1,3 +1,5 @@
+# Credit Card Fraud Detection
+
 Training a linear model to do credit card fraud detection.
 Then Improve the model by accounting for class imbalance in the training data and tuning for a specific performance metric.
 
